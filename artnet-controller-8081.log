@@ -1,0 +1,3 @@
+2026/07/18 23:16:38 Art-Net web controller listening on http://localhost:8081
+2026/07/18 23:16:38 Art-Net socket: UDP 6454 is unavailable (listen udp4 0.0.0.0:6454: bind: Normalt må en socket-adresse (protokol/netværksadresse/port) kun bruges én gang.); sending can still work, but discovery may miss nodes
+2026/07/18 23:16:38 listen tcp :8081: bind: Normalt må en socket-adresse (protokol/netværksadresse/port) kun bruges én gang.
